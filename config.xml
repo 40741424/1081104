@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.40741424" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>娛樂網</name>
+  <description>
+      None
+  </description>
+  <author href="https://www.nfu.edu.tw/zh/" email="40741424@nfu.edu.tw">
+      龐勝謙
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/map.png" />
+  </platform>
+</widget>
